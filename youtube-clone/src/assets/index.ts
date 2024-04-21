@@ -1,0 +1,7 @@
+export {default as libraryIcon} from './svgs/library.svg'
+export {default as originalIcon} from './svgs/originals.svg'
+export {default as subscriptionIcon} from './svgs/subscriptions.svg'
+export {default as exploreIcon} from './svgs/explore.svg'
+export {default as youtubeMusicIcon} from './svgs/youtube-music.svg'
+export {default as homeIcon} from './svgs/home.svg'
+export {default as logo} from './svgs/youtube-logo.svg'
