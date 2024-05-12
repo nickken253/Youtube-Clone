@@ -1,7 +1,6 @@
 import { faBars, faBell, faMagnifyingGlass, faUser, faVideo } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { logo } from '../../assets'
-import React from 'react'
 
 export const Header = () => {
   // Header gồm có, thanh menu, logo, search bar, icon create new video, icon notification, icon user
